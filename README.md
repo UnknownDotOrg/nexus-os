@@ -1,4 +1,4 @@
-# NEXUS OS — Project Genesis (0.1)
+# NEXUS OS — Project Genesis (0.4)
 
 A tiny, genuinely bootable hobby OS kernel. It boots through GRUB in a virtual machine and writes directly to VGA text memory. This first milestone targets **32-bit x86 protected mode** so the boot path stays small and understandable. We can move to x86-64 in a later milestone.
 
